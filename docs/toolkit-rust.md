@@ -230,3 +230,5 @@ async fn main() {
 [nexus-next-tool-docs]: ../nexus-next/tool.md
 [nexus-next-workflow-docs]: ../nexus-next/packages/workflow.md
 [nexus-cli-docs]: ./cli.md
+
+<!-- Auto-update: 2025-10-18T09:36:38.299941 -->
